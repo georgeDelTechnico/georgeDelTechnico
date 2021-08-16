@@ -8,7 +8,7 @@
   * Python, Django
   * VBA
   * Wordpress  **New!**
-  * Vue3 + Django REST Framework  **New!**
+  * React ~~Vue3~~ + Django REST Framework  **New!**
 
 
 I'm crazy about bianco nero so long time.
