@@ -11,6 +11,12 @@
   * React ~~Vue3~~ + Django REST Framework  **New!**
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeDelTechnico&langs_count=8" />
+</a>
+
+
+
 I'm crazy about bianco nero so long time.
 <!-- Also, I like Nagoya Grampus, and Alphatauri F1 Team. -->
 Also, I like Nagoya Grampus, and Redbull F1 Team.
