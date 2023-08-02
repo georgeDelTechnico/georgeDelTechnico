@@ -3,18 +3,19 @@
 - 🔭 I’m currently working as ...
   * Production Engineer
   * Kaizen task adviser
+  * Paperless task leader  **New!**
 
 - 🌱 I’m currently learning ...
   * Python, Django
   * VBA
-  * Wordpress  **New!**
-  * React ~~Vue3~~ + Django REST Framework  **New!**
-
+  * Wordpress
+  * React + Django REST Framework
+  * kintone customize  **New!**
 
 
 I'm crazy about bianco nero so long time.
-<!-- Also, I like Nagoya Grampus, and Alphatauri F1 Team. -->
-Also, I like Nagoya Grampus, and Redbull F1 Team.
+<!-- Also, I like Nagoya Grampus, and Redbull F1 Team. -->
+Also, I like Nagoya Grampus, and Alphatauri F1 Team.
 
 <!--
 **georgeDelTechnico/georgeDelTechnico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
